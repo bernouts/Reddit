@@ -1,5 +1,5 @@
 //
-//  ModelController.swift
+//  PostController.swift
 //  Reddit
 //
 //  Created by Brenden Smith on 9/23/20.
