@@ -11,4 +11,6 @@ enum PostError: LocalizedError {
     case invalidURL
     case noData
     case thrownError(Error)
+    case thrownImageError(Error)
+    case unableToDecode
 }

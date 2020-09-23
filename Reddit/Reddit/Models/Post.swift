@@ -7,7 +7,7 @@
 
 import Foundation
 
-struct TopLeveLDictionary: Decodable {
+struct TopLevelDictionary: Decodable {
     let data: SecondLevelDictionary
 }
 
